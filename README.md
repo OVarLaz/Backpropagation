@@ -56,5 +56,10 @@ for(int i=0 ;i<Es; i++) //Iterar dentro del conjunto de entrenamiento
 ```
 
 ## Capturas de la ejecución
-<img src="/images/sc1.png" alt="Screenshot1"/>
+Los experimentos se reralizarón con el Dataset de Iris, con 120 entradas para el Train y 30 para el Test
+Pesos despues del train y error obtenido
+<img src="/images/pesos.png" alt="Screenshot1"/>
+
+Numero de aciertos el test
+<img src="/images/test-results.png" alt="Screenshot2"/>
 
