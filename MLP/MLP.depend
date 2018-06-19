@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1496935414 source:/home/mica/Desktop/TopIA/MLP/layer.cpp
+	"layer.h"
+
+1496929614 /home/mica/Desktop/TopIA/MLP/layer.h
+	"neuron.h"
+	<vector>
+
+1496929617 /home/mica/Desktop/TopIA/MLP/neuron.h
+	<armadillo>
+	<iostream>
+
+1497031569 source:/home/mica/Desktop/TopIA/MLP/main.cpp
+	"network.h"
+	<armadillo>
+	<algorithm>
+
+1497031120 /home/mica/Desktop/TopIA/MLP/network.h
+	"layer.h"
+	<cmath>
+	<cstdio>
+
+1496936582 source:/home/mica/Desktop/TopIA/MLP/network.cpp
+	"network.h"
+
+1496929617 source:/home/mica/Desktop/TopIA/MLP/neuron.cpp
+	"neuron.h"
+
+1497031949 source:/home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/layer.cpp
+	"layer.h"
+
+1497031950 /home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/layer.h
+	"neuron.h"
+	<vector>
+
+1497031950 /home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/neuron.h
+	<armadillo>
+	<iostream>
+
+1497031949 source:/home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/neuron.cpp
+	"neuron.h"
+
+1497883707 source:/home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/main.cpp
+	"network.h"
+	<armadillo>
+	<algorithm>
+	<ctime>
+	<ctype.h>
+	"ctime"
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/select.h>
+	<termios.h>
+
+1497885629 /home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/network.h
+	"layer.h"
+	<cmath>
+	<cstdio>
+
+1497885463 source:/home/mica/Desktop/TopIA/MultilayerNeuralNetwok-armadillo/MLP/network.cpp
+	"network.h"
+
+1497918138 source:/home/mica/Desktop/CLEI2018/BB/MLP/layer.cpp
+	"layer.h"
+
+1497918138 /home/mica/Desktop/CLEI2018/BB/MLP/layer.h
+	"neuron.h"
+	<vector>
+
+1497918138 /home/mica/Desktop/CLEI2018/BB/MLP/neuron.h
+	<armadillo>
+	<iostream>
+
+1497918138 source:/home/mica/Desktop/CLEI2018/BB/MLP/network.cpp
+	"network.h"
+
+1497918138 /home/mica/Desktop/CLEI2018/BB/MLP/network.h
+	"layer.h"
+	<cmath>
+	<cstdio>
+
+1497918138 source:/home/mica/Desktop/CLEI2018/BB/MLP/neuron.cpp
+	"neuron.h"
+
+1522449052 source:/home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/layer.cpp
+	"layer.h"
+
+1522449052 /home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/layer.h
+	"neuron.h"
+	<vector>
+
+1522449052 /home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/neuron.h
+	<armadillo>
+	<iostream>
+
+1529440370 source:/home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/network.cpp
+	"network.h"
+
+1529440370 /home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/network.h
+	"layer.h"
+	<cmath>
+	<cstdio>
+
+1522449052 source:/home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/neuron.cpp
+	"neuron.h"
+
+1529440370 source:/home/rose/Documents/tia/MLP-Arma-Mom-master/BB/MLP/main.cpp
+	"network.h"
+	<armadillo>
+	<algorithm>
+	<ctime>
+	<ctype.h>
+	"ctime"
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/select.h>
+	<termios.h>
+
